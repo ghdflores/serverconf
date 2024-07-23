@@ -1,5 +1,5 @@
 course:
-  property: course profile dev
+  property: course profile devs
 
 spring:
     jpa:
