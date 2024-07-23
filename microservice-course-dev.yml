@@ -1,0 +1,9 @@
+course:
+  property: course profile dev
+
+spring:
+    jpa:
+      hibernate:
+        ddl-auto: update
+        database: mysql
+      database-platform: org.hibernate.dialect.MySQLDialect
